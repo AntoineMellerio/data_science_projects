@@ -1,3 +1,5 @@
+### Date : 11/2021  
+### Polytechnique-HEC Master in Data Science
 # Description of the project
 This project aims at predicting the bicycle traffic in some specific locations in Paris.  
 30 counting stations were installed in strategic bicycling lines of the capital. to count the number of bikes passing by over one hour. It was decided to take the logarithm of the bike counts for repartition concerns.  
