@@ -1,3 +1,5 @@
+### Date : 04/2022
+### Polytechnique-HEC Master in Data Science
 # Objectives
 The work consists in understanding the MapReduce algorithm presented in the research paper attached, and coding it into Spark by using both RDD and DataFrames.  
   
