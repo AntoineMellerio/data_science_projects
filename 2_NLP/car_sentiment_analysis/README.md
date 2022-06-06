@@ -8,4 +8,10 @@ The analysis was composed of three steps :
 - preprocessing and wordclouds generations (notebook 1)  
 - sentiment analysis (notebook 2)  
   
-You will also find the final presentation retracing the whole study and final strategy proposed to the bank. 
+You will also find the final presentation retracing the whole study and final strategy proposed to the bank.   
+  
+Here is the wordcloud obtained with the Tesla Model 3 :  
+![plot](./wordcloud_tesla_model_3.png)   
+  
+Here is the comparison of the sentiment analysis applied on the comments of the forum :  
+![plot](./sentiment_comparison.png)  

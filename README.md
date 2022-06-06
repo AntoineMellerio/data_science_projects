@@ -9,6 +9,9 @@ This repository includes some of the Data Science projects conducted during my a
 - forecasting of public bike use in different stations of Paris (2021)  
 - supervised classification of cloud types based on their characteristics (2022)  
 - supervised classification of Amazon's articles based on their descriptions (2022)  
-
+  
+### NLP project    
+- car sentiment analysis on comments scrapped from a forum, conducted with Capgemini Invent (2022)  
+    
 ### Database management project  
 - graph processing using a map reduce approach (2022)
