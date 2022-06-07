@@ -5,14 +5,17 @@ This repository includes some of the Data Science projects conducted during my a
   
   
 ### Machine learning projects  
-- regression of housing prices (2020)  
-- computer vision : face recognition (2020)
-- forecasting of public bike use in different stations of Paris (2021)  
-- supervised classification of cloud types based on their characteristics (2022)  
-- supervised classification of Amazon's articles based on their descriptions (2022)  
+- regression of housing prices (2020, python)  
+- computer vision : face recognition (2020, R)
+- forecasting of public bike use in different stations of Paris (2021, python)  
+- supervised classification of cloud types based on their characteristics (2022, python)  
+- supervised classification of Amazon's articles based on their descriptions (2022, python)  
+  
+### Deep Learning project  
+- computer vision : object recognition (2020, python)  
   
 ### NLP project    
-- car sentiment analysis on comments scrapped from a forum, conducted with Capgemini Invent (2022)  
+- car sentiment analysis on comments scrapped from a forum, conducted with Capgemini Invent (2022, python)  
     
 ### Database management project  
-- graph processing using a map reduce approach (2022)
+- graph processing using a map reduce approach (2022, python&spark)
