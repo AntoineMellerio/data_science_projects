@@ -1,0 +1,3 @@
+[submodule "hackathon_GoogleCloud"]
+	path = hackathon_GoogleCloud
+	url = https://github.com/AntoineMellerio/hackathon_GoogleCloud.git
