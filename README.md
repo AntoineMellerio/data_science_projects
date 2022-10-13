@@ -17,7 +17,7 @@ This repository includes some of the Data Science projects conducted during my a
 ### NLP projects    
 - car sentiment analysis on comments scrapped from a forum, conducted with Capgemini Invent (2022, python)  
 - supervised classification of Amazon's articles based on their descriptions (2022, python)  
-- understanding of drug prescriptions (2022, python)  
+- understanding of drug prescriptions, conducted with Quinten (2022, python)  
     
 ### Database management project  
 - graph processing using a map reduce approach (2022, python&spark)
