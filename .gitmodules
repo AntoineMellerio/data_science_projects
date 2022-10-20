@@ -7,3 +7,6 @@
 [submodule "3_nlp/drug_prescription_understanding"]
 	path = 3_nlp/drug_prescription_understanding
 	url = https://github.com/camkatf/hec-quinten-group5-team1.git
+[submodule "2_deep_learning/deepfake_detection"]
+	path = 2_deep_learning/deepfake_detection
+	url = https://gitlab.code.hfactory.io/unit-test-group4/group4-deepfakes-detection.git
