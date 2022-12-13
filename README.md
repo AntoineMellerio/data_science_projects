@@ -24,4 +24,4 @@ This repository includes some of the Data Science projects conducted during my a
 ### Database management project  
 - graph processing using a map reduce approach (2022, python&spark)
   
-### Hackathon GoogleCloud for climate : recommendation systems (2022, python)
+### GoogleCloud Hackathon for climate : recommendation systems (2022, python)
