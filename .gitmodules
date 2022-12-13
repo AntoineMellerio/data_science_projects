@@ -7,3 +7,9 @@
 [submodule "3_nlp/NER_medical_report"]
 	path = 3_nlp/NER_medical_report
 	url = https://github.com/camkatf/hec-quinten-group5-team1.git
+[submodule "2_deep_learning/image_classification"]
+	path = 2_deep_learning/image_classification
+	url = https://github.com/MRL1998/MCK_Silos.git
+[submodule "2_deep_learning/classification_segmentation_McKinsey"]
+	path = 2_deep_learning/classification_segmentation_McKinsey
+	url = https://github.com/MRL1998/MCK_Silos.git
