@@ -13,3 +13,6 @@
 [submodule "2_deep_learning/classification_segmentation_McKinsey"]
 	path = 2_deep_learning/classification_segmentation_McKinsey
 	url = https://github.com/MRL1998/MCK_Silos.git
+[submodule "1_machine_learning/regression-waiting-line-ElevenStrategy"]
+	path = 1_machine_learning/regression-waiting-line-ElevenStrategy
+	url = https://github.com/AntoineMellerio/regression-waiting-line-ElevenStrategy.git
