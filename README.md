@@ -14,6 +14,7 @@ This repository includes some of the Data Science projects conducted during my a
 ### Deep Learning projects  
 - computer vision : object recognition (2020, python)  
 - computer vision : detection of deepfake pictures (2022, python)
+- McKinsey hackathon: classification and segmentation of satellite images & webapp (2022, python)
   
 ### NLP projects    
 - car sentiment analysis on comments scrapped from a forum, conducted with Capgemini Invent (2022, python)  
@@ -23,4 +24,4 @@ This repository includes some of the Data Science projects conducted during my a
 ### Database management project  
 - graph processing using a map reduce approach (2022, python&spark)
   
-### Hackathon GoogleCloud for climate : recommendation systems (2022, python)
+### GoogleCloud Hackathon for climate : recommendation systems (2022, python)
