@@ -16,3 +16,9 @@
 [submodule "1_machine_learning/regression-waiting-line-ElevenStrategy"]
 	path = 1_machine_learning/regression-waiting-line-ElevenStrategy
 	url = https://github.com/AntoineMellerio/regression-waiting-line-ElevenStrategy.git
+[submodule "1_machine_learning/churn_prediction_bcg"]
+	path = 1_machine_learning/churn_prediction_bcg
+	url = https://github.com/acktan/bcg_strat.git
+[submodule "1_machine_learning/churn_prediction_BCG"]
+	path = 1_machine_learning/churn_prediction_BCG
+	url = https://github.com/acktan/bcg_strat.git
